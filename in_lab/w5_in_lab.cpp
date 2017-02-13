@@ -1,6 +1,6 @@
 // OOP244 Workshop 5: operators overloading
 // File: w5_in_lab.cpp
-// Version: 1.0
+// Version: 1.1 Corrected the typo in output
 // Date: 2016/01/22
 // Author: Heidar Davoudi
 // Description:
