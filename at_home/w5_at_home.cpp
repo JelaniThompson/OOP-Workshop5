@@ -47,14 +47,14 @@ int main(){
     cout << endl;
 
     Fraction E(8, 4);
-    cout << "Fraction E(8, 2); //";
+    cout << "Fraction E(8, 4); //";  // corrected the ouput here V1.1
     cout << " E = " ;
     E.display();
     cout << endl;
 
     cout << endl;
 
-    cout << "(B*Rational(6) == E) equals ";
+    cout << "(B*Fraction(6) == E) equals ";  // corrected the ouput here V1.1
     cout << (B*Fraction(6) == E);
     cout << endl;
 

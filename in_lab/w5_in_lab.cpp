@@ -47,7 +47,7 @@ int main(){
     cout << endl;
 
     Fraction E(8, 4);
-    cout << "Fraction E(8, 2); //";
+    cout << "Fraction E(8, 4); //"; // corrected the ouput here V1.1
     cout << " E = " ;
     E.display();
     cout << endl;
